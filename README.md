@@ -6,3 +6,7 @@ edit first time
 CC256
 nest
 456456
+
+000
+7
+next 
